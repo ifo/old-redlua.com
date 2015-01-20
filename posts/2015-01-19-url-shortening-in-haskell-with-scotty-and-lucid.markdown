@@ -3,6 +3,8 @@ title: Url shortening in Haskell with Scotty and Lucid
 ---
 
 This article is for beginners (because the author is one).
+You should be familiar with basic Haskell syntax, though.
+If you aren't, check out [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
 I want to play around with Haskell web frameworks, so let's make some Url shorteners!
 First up, [Scotty](https://github.com/scotty-web/scotty),
@@ -523,4 +525,4 @@ In a future post, we'll go over points 2, 3, 4 and 5 listed above:
 - Allowing shorter urls without the leading "http://"
 - Handle potential shortened url conflicts
 
-You can check out the "final" project [here](https://github.com/ifo/scotty-lucid-url-shortener).
+You can check out the "final" project [here](https://github.com/ifo/scotty-lucid-url-shortener/tree/c7a273bdd55b9277e9ad2a29cba827025c6342ab), and see the most recent version [here](https://github.com/ifo/scotty-lucid-url-shortener).
