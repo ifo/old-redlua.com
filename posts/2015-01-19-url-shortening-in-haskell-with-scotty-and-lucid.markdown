@@ -7,8 +7,8 @@ You should be familiar with basic Haskell syntax, though.
 If you aren't, check out [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
 I want to play around with Haskell web frameworks, so let's make some Url shorteners!
-First up, [Scotty](https://github.com/scotty-web/scotty),
-with HTML templating provided by [Lucid](https://github.com/chrisdone/lucid).
+I'll start with [Scotty](https://github.com/scotty-web/scotty),
+using HTML templating provided by [Lucid](https://github.com/chrisdone/lucid).
 
 ## First, A Thank You
 
