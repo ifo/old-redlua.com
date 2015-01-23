@@ -100,7 +100,7 @@ In this case, we're returning an html page. We could also return json, text, a f
 Text actually would have been more appropriate, but we're going to use html eventually.
 The html function in this case just takes our text and lets Scotty return it for the route it's in.
 
-## Make a form
+## Make A Form
 
 Because our url shortener is going to need to take form input, let's use Lucid to make ourself a form.
 Continuing with our previous file, replace the line `html "Hello World!"` with
