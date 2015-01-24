@@ -1,5 +1,7 @@
 ---
-title: Contact me, eventually
+title: Hi!
 ---
 
-This page is not yet complete.
+My email address is: steve at redlua dot com
+
+I'm also (rarely) on twitter at [\@ifosteve](https://twitter.com/ifosteve)
